@@ -1,0 +1,14 @@
+.product-cards--container {
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-content: space-evenly;
+  margin-bottom: 20px;
+}
+
+.product-detail--card {
+  max-width: 300px;
+}
+
+.plans-container--slider {
+  justify-content: center;
+}
